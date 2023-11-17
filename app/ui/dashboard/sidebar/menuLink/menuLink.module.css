@@ -1,0 +1,13 @@
+.container{
+    padding: 20px;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    gap: 10px;
+    margin: 10px 0px ;
+    border-radius: 8px ;
+    transition: all .5s ease-in;
+}
+.container:hover ,.active{
+    background-color: #2e374a;
+}
